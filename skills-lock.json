@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "fastapi": {
+      "source": "fastapi/fastapi",
+      "sourceType": "github",
+      "skillPath": "fastapi/.agents/skills/fastapi/SKILL.md",
+      "computedHash": "76c2b6d97abb178cf30ec984153685ef2b26fc83957aa86d48b0cb6cebbcce2b"
+    },
+    "uv": {
+      "source": "astral-sh/agent-plugins",
+      "sourceType": "github",
+      "skillPath": "plugins/astral/skills/uv/SKILL.md",
+      "computedHash": "7bc91bd7fdcaef5bc5b19c4ff279f318ddb6fc14fe5ca755b1a23cbb051bd1a5"
+    }
+  }
+}
